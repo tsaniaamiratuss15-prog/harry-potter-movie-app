@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
 
-      title: 'Laskar Pelangi Movie App',
+      title: 'Harry Potter Movie App',
 
       theme: ThemeData(
         primarySwatch: Colors.blue,
